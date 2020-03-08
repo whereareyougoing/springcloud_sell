@@ -1,10 +1,10 @@
-package com.imooc.client;
+package com.imooc.eureka2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClientApplicationTests {
+class Eureka2ApplicationTests {
 
     @Test
     void contextLoads() {
