@@ -31,4 +31,13 @@ public class ProductServiceTest extends ProductApplicationTests {
 
 
     }
+
+    @Test
+    public void findList() {
+
+    }
+
+    @Test
+    public void decreaseStock() {
+    }
 }
